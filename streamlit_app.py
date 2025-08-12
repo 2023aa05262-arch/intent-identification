@@ -8,7 +8,7 @@ from fuzzywuzzy import process
 df = pd.read_excel("data_output.xlsx")
 
 st.set_page_config(page_title="Ticket Routing from File", layout="centered")
-st.title("📌 Smart Ticket Categorization (From File)")
+st.title("📌 Smart Ticket Categorization and Intent Indentification")
 
 st.write("Enter a **Short Description** to find the corresponding **Assignment Group** and **Intent Cluster** from the dataset.")
 
