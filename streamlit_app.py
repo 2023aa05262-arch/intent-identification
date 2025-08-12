@@ -38,5 +38,5 @@ if st.button("Get Result"):
         st.warning("⚠️ Please enter a short description.")
 
 # Footer
-st.markdown("---")
-st.caption("Data source: data_output.xlsx")
+#st.markdown("---")
+#st.caption("Data source: data_output.xlsx")
