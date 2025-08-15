@@ -1,5 +1,4 @@
-streamlit
-pandas
-openpyxl
-fuzzywuzzy
-python-Levenshtein
+streamlit==1.36.0
+pandas>=2.0,<3.0
+openpyxl>=3.1
+rapidfuzz>=3.9
